@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/logo/qlab-logo.svg" alt="qlab" width="360"></p>
+
 # genro-qlab
 
 Laboratory project for new [GenroPy](https://github.com/genropy/genropy)
